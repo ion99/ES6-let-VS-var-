@@ -1,1 +1,1 @@
-# ES6-let-VS-var-
+# ES6 let VS var
